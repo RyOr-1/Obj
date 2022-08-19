@@ -1,0 +1,21 @@
+body {
+    background-color: powderblue;
+}
+
+.heading {
+    width: 300;
+    height: 50;
+    letter-spacing: 2;
+    font-size: large;
+    font-style: bold;
+}
+
+.nameOfObjects, #obj, #acru {
+    color:plum;
+}
+
+#camera {
+    border: 3px dashed burlywood;
+    height: 400;
+    width: 350;
+}
